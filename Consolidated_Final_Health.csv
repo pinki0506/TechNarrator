@@ -1,0 +1,16 @@
+ProjectName,AWT_Final_Health_Status,FLOW_Final_Health_Status,Delay_Final_Health_Status
+Uranus,Critical,Critical,Degraded
+Pluto,Degraded,Degraded,Average
+Jupiter,Average,Critical,Critical
+Earth,Degraded,Critical,Critical
+Mars,Degraded,Critical,Average
+Moon,Critical,Critical,Critical
+Venus,Good,Critical,Average
+Saton,Critical,Degraded,Critical
+Neptune,Critical,Degraded,Critical
+Sky,Critical,Critical,Average
+Chandrayan,Critical,Critical,Average
+Tesla,Average,Critical,Average
+Maruti,Critical,Critical,Critical
+Hyundai,Critical,Degraded,Average
+Tata,Critical,Critical,Critical

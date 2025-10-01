@@ -1,0 +1,16 @@
+ProjectName,Health_Col_C,Health_Col_D,Health_Col_E,Health_Col_F,Health_Col_G,Delay_Final_Health_Status
+Uranus,Average,Degraded,Degraded,Good,Average,Degraded
+Pluto,Good,Good,Good,Good,Average,Average
+Jupiter,Critical,Good,Good,Good,Average,Critical
+Earth,Degraded,Good,Good,Degraded,Critical,Critical
+Mars,Good,Good,Good,Good,Average,Average
+Moon,Critical,Critical,Critical,Good,Average,Critical
+Venus,Good,Good,Good,Good,Average,Average
+Saton,Critical,Good,Critical,Critical,Critical,Critical
+Neptune,Good,Good,Critical,Critical,Critical,Critical
+Sky,Good,Good,Average,Good,Average,Average
+Chandrayan,Good,Good,Good,Good,Average,Average
+Tesla,Good,Good,Good,Good,Average,Average
+Maruti,Average,Critical,Critical,Average,Average,Critical
+Hyundai,Good,Good,Good,Good,Average,Average
+Tata,Critical,Good,Good,Good,Average,Critical
